@@ -11,7 +11,7 @@ from app import app
 import dash
 
 
-t20Data = pd.read_csv(r"D:\Srikar\finalSummary.csv")
+t20Data = pd.read_csv(r"../finalSummary.csv")
 
 totalMatches = t20Data['id'].nunique()
 
