@@ -1,0 +1,46 @@
+,season,id,short_name,home_team,away_team,toss_won,decision,winner,venue_id,venue_name,pom,home_wickets,home_boundaries,away_wickets,away_boundaries,first_inn_score,first_inn_wicket,second_inn_score,second_inn_wicket
+0,2022.0,1298179,ENG v PAK,ENG,PAK,England,BOWL FIRST,ENG,56441,Melbourne Cricket Ground,Sam Curran,5.0,16.0,8.0,10.0,137,8,138,5
+1,2022.0,1298178,ENG v INDIA,ENG,INDIA,England,BOWL FIRST,ENG,56293,Adelaide Oval,Alex Hales,0.0,23.0,6.0,22.0,168,6,170,0
+2,2022.0,1298177,NZ v PAK,NZ,PAK,New Zealand,BAT FIRST,PAK,56544,Sydney Cricket Ground,Mohammad Rizwan,4.0,12.0,3.0,15.0,152,4,153,3
+3,2022.0,1298176,INDIA v ZIM,INDIA,ZIM,India,BAT FIRST,INDIA,56441,Melbourne Cricket Ground,Suryakumar Yadav,5.0,22.0,10.0,14.0,186,5,115,0
+4,2022.0,1298175,BAN v PAK,BAN,PAK,Bangladesh,BAT FIRST,PAK,56293,Adelaide Oval,Shaheen Shah Afridi,8.0,14.0,5.0,10.0,127,8,128,5
+5,2022.0,1298174,NED v SA,NED,SA,South Africa,BOWL FIRST,NED,56293,Adelaide Oval,Colin Ackermann,4.0,20.0,8.0,12.0,158,4,145,8
+6,2022.0,1298173,ENG v SL,ENG,SL,Sri Lanka,BAT FIRST,ENG,56544,Sydney Cricket Ground,Adil Rashid,6.0,14.0,8.0,13.0,141,8,144,6
+7,2022.0,1298172,AUS v AFG,AUS,AFG,Afghanistan,BOWL FIRST,AUS,56293,Adelaide Oval,Glenn Maxwell,8.0,22.0,7.0,19.0,168,8,164,7
+8,2022.0,1298171,IRE v NZ,IRE,NZ,Ireland,BOWL FIRST,NZ,56293,Adelaide Oval,Kane Williamson,9.0,15.0,6.0,21.0,185,6,150,9
+9,2022.0,1298170,PAK v SA,PAK,SA,Pakistan,BAT FIRST,PAK,56544,Sydney Cricket Ground,Shadab Khan,9.0,23.0,9.0,15.0,185,9,108,9
+10,2022.0,1298169,BAN v INDIA,BAN,INDIA,Bangladesh,BOWL FIRST,INDIA,56293,Adelaide Oval,Virat Kohli,6.0,20.0,6.0,24.0,184,6,145,6
+11,2022.0,1298168,NED v ZIM,NED,ZIM,Zimbabwe,BAT FIRST,NED,56293,Adelaide Oval,Max O'Dowd,5.0,16.0,10.0,11.0,117,0,120,5
+12,2022.0,1298167,ENG v NZ,ENG,NZ,England,BAT FIRST,ENG,56336,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Jos Buttler,6.0,21.0,6.0,13.0,179,6,159,6
+13,2022.0,1298166,AFG v SL,AFG,SL,Afghanistan,BAT FIRST,SL,56336,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Wanindu Hasaranga de Silva,8.0,12.0,4.0,17.0,144,8,148,4
+14,2022.0,1298165,AUS v IRE,AUS,IRE,Ireland,BOWL FIRST,AUS,56336,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Aaron Finch,5.0,20.0,10.0,18.0,179,5,137,0
+15,2022.0,1298164,INDIA v SA,INDIA,SA,India,BAT FIRST,SA,1126475,Perth Stadium,Lungi Ngidi,9.0,14.0,5.0,16.0,133,9,137,5
+16,2022.0,1298163,NED v PAK,NED,PAK,Netherlands,BAT FIRST,PAK,1126475,Perth Stadium,Shadab Khan,9.0,5.0,4.0,10.0,91,9,95,4
+17,2022.0,1298162,BAN v ZIM,BAN,ZIM,Bangladesh,BAT FIRST,BAN,56336,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Taskin Ahmed,7.0,14.0,8.0,16.0,150,7,147,8
+18,2022.0,1298161,NZ v SL,NZ,SL,New Zealand,BAT FIRST,NZ,56544,Sydney Cricket Ground,Glenn Phillips,7.0,17.0,10.0,13.0,167,7,102,0
+19,2022.0,1298160,AUS v ENG,AUS,ENG,0,0,ENG,56441,Melbourne Cricket Ground,0,0.0,0.0,0.0,0.0,0,0,0,0
+20,2022.0,1298159,AFG v IRE,AFG,IRE,0,0,IRE,56441,Melbourne Cricket Ground,0,0.0,0.0,0.0,0.0,0,0,0,0
+21,2022.0,1298158,PAK v ZIM,PAK,ZIM,Zimbabwe,BAT FIRST,ZIM,1126475,Perth Stadium,Sikandar Raza,8.0,12.0,8.0,11.0,130,8,129,8
+22,2022.0,1298157,INDIA v NED,INDIA,NED,India,BAT FIRST,INDIA,56544,Sydney Cricket Ground,Suryakumar Yadav,2.0,21.0,9.0,11.0,179,2,123,9
+23,2022.0,1298156,BAN v SA,BAN,SA,South Africa,BAT FIRST,SA,56544,Sydney Cricket Ground,Rilee Rossouw,10.0,7.0,5.0,27.0,205,5,101,0
+24,2022.0,1298155,AFG v NZ,AFG,NZ,0,0,NZ,56441,Melbourne Cricket Ground,0,0.0,0.0,0.0,0.0,0,0,0,0
+25,2022.0,1298154,ENG v IRE,ENG,IRE,England,BOWL FIRST,IRE,56441,Melbourne Cricket Ground,Andy Balbirnie,5.0,8.0,10.0,17.0,157,0,105,5
+26,2022.0,1298153,AUS v SL,AUS,SL,Australia,BOWL FIRST,AUS,1126475,Perth Stadium,Marcus Stoinis,3.0,17.0,6.0,14.0,157,6,158,3
+27,2022.0,1298152,SA v ZIM,SA,ZIM,Zimbabwe,BAT FIRST,SA,56407,"Bellerive Oval, Hobart",None,0.0,9.0,5.0,8.0,79,5,51,0
+28,2022.0,1298151,BAN v NED,BAN,NED,Netherlands,BOWL FIRST,BAN,56407,"Bellerive Oval, Hobart",Taskin Ahmed,8.0,13.0,10.0,15.0,144,8,135,0
+29,2022.0,1298150,INDIA v PAK,INDIA,PAK,India,BOWL FIRST,INDIA,56441,Melbourne Cricket Ground,Virat Kohli,6.0,15.0,8.0,18.0,159,8,160,6
+30,2022.0,1298149,IRE v SL,IRE,SL,Ireland,BAT FIRST,SL,56407,"Bellerive Oval, Hobart",Kusal Mendis,8.0,11.0,1.0,13.0,128,8,133,1
+31,2022.0,1298148,AFG v ENG,AFG,ENG,England,BOWL FIRST,ENG,1126475,Perth Stadium,Sam Curran,10.0,11.0,5.0,7.0,112,0,113,5
+32,2022.0,1298147,AUS v NZ,AUS,NZ,Australia,BOWL FIRST,NZ,56544,Sydney Cricket Ground,Devon Conway,10.0,14.0,3.0,23.0,200,3,111,0
+33,2022.0,1298146,SCOT v ZIM,SCOT,ZIM,Scotland,BAT FIRST,ZIM,56407,"Bellerive Oval, Hobart",Sikandar Raza,6.0,11.0,5.0,13.0,132,6,133,5
+34,2022.0,1298145,IRE v WI,IRE,WI,West Indies,BAT FIRST,IRE,56407,"Bellerive Oval, Hobart",Gareth Delany,1.0,18.0,5.0,16.0,146,5,150,1
+35,2022.0,1298144,NAM v UAE,NAM,UAE,United Arab Emirates,BAT FIRST,UAE,56402,"Simonds Stadium, South Geelong, Victoria",Muhammad Waseem,8.0,13.0,3.0,14.0,148,3,141,8
+36,2022.0,1298143,NED v SL,NED,SL,Sri Lanka,BAT FIRST,SL,56402,"Simonds Stadium, South Geelong, Victoria",Kusal Mendis,9.0,16.0,6.0,17.0,162,6,146,9
+37,2022.0,1298142,WI v ZIM,WI,ZIM,West Indies,BAT FIRST,WI,56407,"Bellerive Oval, Hobart",Alzarri Joseph,7.0,13.0,10.0,16.0,153,7,122,0
+38,2022.0,1298141,IRE v SCOT,IRE,SCOT,Scotland,BAT FIRST,IRE,56407,"Bellerive Oval, Hobart",Curtis Campher,4.0,20.0,5.0,21.0,176,5,180,4
+39,2022.0,1298140,SL v UAE,SL,UAE,United Arab Emirates,BOWL FIRST,SL,56402,"Simonds Stadium, South Geelong, Victoria",Pathum Nissanka,8.0,15.0,10.0,7.0,152,8,73,0
+40,2022.0,1298139,NAM v NED,NAM,NED,Namibia,BAT FIRST,NED,56402,"Simonds Stadium, South Geelong, Victoria",Bas de Leede,6.0,7.0,5.0,10.0,121,6,122,5
+41,2022.0,1298138,IRE v ZIM,IRE,ZIM,Ireland,BOWL FIRST,ZIM,56407,"Bellerive Oval, Hobart",Sikandar Raza,9.0,13.0,7.0,20.0,174,7,143,9
+42,2022.0,1298137,SCOT v WI,SCOT,WI,West Indies,BOWL FIRST,SCOT,56407,"Bellerive Oval, Hobart",George Munsey,5.0,19.0,10.0,14.0,160,5,118,0
+43,2022.0,1298136,NED v UAE,NED,UAE,United Arab Emirates,BAT FIRST,NED,56402,"Simonds Stadium, South Geelong, Victoria",Bas de Leede,7.0,8.0,8.0,6.0,111,8,112,7
+44,2022.0,1298135,NAM v SL,NAM,SL,Sri Lanka,BOWL FIRST,NAM,56402,"Simonds Stadium, South Geelong, Victoria",Jan Frylinck,7.0,14.0,10.0,8.0,163,7,108,0

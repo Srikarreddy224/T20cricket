@@ -1,0 +1,37 @@
+body{
+    overflow-x: hidden !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.firstContainer{
+    width: 83%;
+    margin-left: 17%;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.secondContainer{
+    width: 83%;
+    margin-left: 17%;
+    padding: 20px;
+}
+
+.navbar_header{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.thirdContainer{
+    width: 83%;
+    margin-left: 17%;
+    background-color: lightblue;
+    padding: 20px;
+
+}
+
+.fourthContaier{
+    width: 83%;
+    margin-left: 17%;
+    background-color: lightblue;
+    padding: 20px;
+}
