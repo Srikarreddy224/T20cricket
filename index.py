@@ -11,6 +11,8 @@ from dash import html
 from pages import matches, players
 
 
+server = app.server
+
 SIDEBAR_STYLE = {
     "position": "fixed",
     "top": 0,
