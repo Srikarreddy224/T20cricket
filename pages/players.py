@@ -11,8 +11,8 @@ from dash.dependencies import Input, Output
 from dash import html
 
 
-battingData = pd.read_csv(r"D:\Srikar\newBatData.csv")
-bowlingData = pd.read_csv(r"D:\Srikar\newBowlData.csv")
+battingData = pd.read_csv("../newBatData.csv")
+bowlingData = pd.read_csv("../newBowlData.csv")
 
 grouped_data = battingData.groupby(['fullName', 'current_innings']).agg({'runs': 'sum', 'ballsFaced': 'sum'}).reset_index()
 dropdown_options = [{'label': team, 'value': team} for team in sorted(grouped_data['current_innings'].unique())]
